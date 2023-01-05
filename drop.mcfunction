@@ -1,0 +1,1 @@
+execute as @e[type=minecraft:item,nbt={OnGround:1b},distance=..200] run data merge entity @s {Glowing:1}
